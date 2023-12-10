@@ -1,7 +1,8 @@
-[submodule "llama.cpp"]
-	path = llama.cpp
-	url = https://github.com/ggerganov/llama.cpp
-[submodule "ggllm.cpp"]
-	path = ggllm.cpp
-# 	url = https://github.com/cmp-nct/ggllm.cpp
-	url = https://gitee.com/shengchong1220/ggllm.cpp
+[SUBMODULE "LLAMA.CPP"]
+	PATH = LLAMA.CPP
+# 	URL = HTTPS://GITHUB.COM/GGERGANOV/LLAMA.CPP
+	URL = https://gitee.com/shengchong1220/llama.cpp
+[SUBMODULE "GGLLM.CPP"]
+	PATH = GGLLM.CPP
+# 	URL = HTTPS://GITHUB.COM/CMP-NCT/GGLLM.CPP
+	URL = HTTPS://GITEE.COM/SHENGCHONG1220/GGLLM.CPP
