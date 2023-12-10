@@ -3,4 +3,5 @@
 	url = https://github.com/ggerganov/llama.cpp
 [submodule "ggllm.cpp"]
 	path = ggllm.cpp
-	url = https://github.com/cmp-nct/ggllm.cpp
+# 	url = https://github.com/cmp-nct/ggllm.cpp
+	url = https://gitee.com/shengchong1220/ggllm.cpp
